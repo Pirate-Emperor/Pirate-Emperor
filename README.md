@@ -45,17 +45,14 @@ Tech enthusiast with 14 projects, 16 programming languages, 3 languages, Codeche
 ## Github Stats
 
 
-<!-- [![Neutron's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pirate-Emperor&theme=aura)]()
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Pirate-Emperor&theme=dark-smoky)](https://git.io/streak-stats) -->
+[![Neutron's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pirate-Emperor&theme=aura)]()
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Pirate-Emperor&theme=dark-smoky)](https://git.io/streak-stats)
 <p style="display:flex; align=center; justify-content:center; ">
 <img src="https://github-readme-stats.vercel.app/api?username=Pirate-Emperor&theme=midnight-purple" style="margin-right:4px;">
 <img src="https://streak-stats.demolab.com/?user=Pirate-Emperor&theme=holi-theme">
 </p>
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
-<!-- - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+
 
 
 ## Latest Blogs
