@@ -27,7 +27,7 @@ Tech enthusiast with 14 projects, 16 programming languages, 3 languages, Codeche
 	<td><strong>Scripting</strong></td>
 </tr>
 <tr>
-		<td><img src = "https://skillicons.dev/icons?i=ai,pytorch,py,r,sklearn,anaconda,aiscript,opencv,tensorflow" ></td>
+		<td><img src = "https://skillicons.dev/icons?i=pytorch,py,sklearn,anaconda,aiscript,opencv,tensorflow,r,ai" ></td>
 		<td><img src = "https://skillicons.dev/icons?i=bash,cmake,npm,git,yarn&theme=dark" ></td>
 </tr>
 <tr>
