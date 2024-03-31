@@ -6,7 +6,7 @@
 
 
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/PirateKingRahul)
-[![Reddit](https://skillicons.dev/icons?i=reddit)](https://www.reddit.com/u/PirateKingRahul)
+[![Reddit](https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Reddit_logo_and_wordmark.svg/320px-Reddit_logo_and_wordmark.svg.png)](https://www.reddit.com/u/PirateKingRahul)
 [![Discord](https://skillicons.dev/icons?i=discord)](htttps://discord.com/users/1200728704981143634)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/piratekingrahul)
 [![Medium](https://skillicons.dev/icons?i=medium)](https://medium.com/@piratekingrahul)
