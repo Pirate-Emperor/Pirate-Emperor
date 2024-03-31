@@ -35,7 +35,7 @@ Tech enthusiast with 14 projects, 16 programming languages, 3 languages, Codeche
 	<td><strong>Database</strong></td>
 </tr>
 <tr>
-		<td><img src = "https://skillicons.dev/icons?i=cpp,cp,unity,unreal,java,python,visualstudio,blender" ></td>
+		<td><img src = "https://skillicons.dev/icons?i=cpp,cs,unity,unreal,java,python,visualstudio,blender" ></td>
 		<td><img src = "https://skillicons.dev/icons?i=mongodb,mysql,firebase,sqlite&theme=dark"></td>
 </tr>
 <tr>
@@ -49,7 +49,6 @@ Tech enthusiast with 14 projects, 16 programming languages, 3 languages, Codeche
 <tr>
 	<td><strong>Frontend Web Development</strong></td>
 	<td><strong>Backend Web Development</strong></td>
-	<td><strong>Design</strong></td>
 </tr>
 <tr>
 		<td><img src = "https://skillicons.dev/icons?i=html,jquery,css,js,react,tailwind,angular,threejs" ></td>
