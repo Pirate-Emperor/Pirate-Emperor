@@ -77,7 +77,7 @@ Tech enthusiast with 14 projects, 16 programming languages, 3 languages, Codeche
 
 ## Github Stats
 
-![Pirate-Emperor's GitHub stats](https://github-readme-stats.vercel.app/api/?username=Pirate-Emperor\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
+![Pirate-Emperor's GitHub stats](https://github-readme-stats-3wst.vercel.app/api/?username=Pirate-Emperor\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
 
 <p style="display:flex; align=center; justify-content:center; ">
 <img src="https://streak-stats.demolab.com/?user=Pirate-Emperor&theme=holi-theme">
@@ -85,18 +85,18 @@ Tech enthusiast with 14 projects, 16 programming languages, 3 languages, Codeche
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
 ## Language Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pirate-Emperor&layout=compact&langs_count=12)](https://github.com/Pirate-Emperor/github-readme-stats)
+[![Top Langs](https://github-readme-stats-3wst.vercel.app/api/top-langs/?username=Pirate-Emperor&layout=compact&langs_count=12)](https://github.com/Pirate-Emperor/github-readme-stats)
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
 ## Repo Cards
-![Card](https://github-readme-stats.vercel.app/api/pin?username=Pirate-Emperor\&repo=Lunar_Docs\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
-![Card](https://github-readme-stats.vercel.app/api/pin?username=Pirate-Emperor\&repo=BigData-Pipeline\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
-![Card](https://github-readme-stats.vercel.app/api/pin?username=Pirate-Emperor\&repo=Cine_Sprite_Home_Genre\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
-![Card](https://github-readme-stats.vercel.app/api/pin?username=Pirate-Emperor\&repo=lawGovPublic\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
-![Card](https://github-readme-stats.vercel.app/api/pin?username=Pirate-Emperor\&repo=GovUnityXplorer\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
-![Card](https://github-readme-stats.vercel.app/api/pin?username=Pirate-Emperor\&repo=Librarium\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
-![Card](https://github-readme-stats.vercel.app/api/pin?username=Pirate-Emperor\&repo=Enigma\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
-![Card](https://github-readme-stats.vercel.app/api/pin?username=Pirate-Emperor\&repo=CipherX\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
+![Card](https://github-readme-stats-3wst.vercel.app/api/pin?username=Pirate-Emperor\&repo=Lunar_Docs\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
+![Card](https://github-readme-stats-3wst.vercel.app/api/pin?username=Pirate-Emperor\&repo=BigData-Pipeline\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
+![Card](https://github-readme-stats-3wst.vercel.app/api/pin?username=Pirate-Emperor\&repo=Cine_Sprite_Home_Genre\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
+![Card](https://github-readme-stats-3wst.vercel.app/api/pin?username=Pirate-Emperor\&repo=lawGovPublic\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
+![Card](https://github-readme-stats-3wst.vercel.app/api/pin?username=Pirate-Emperor\&repo=GovUnityXplorer\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
+![Card](https://github-readme-stats-3wst.vercel.app/api/pin?username=Pirate-Emperor\&repo=Librarium\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
+![Card](https://github-readme-stats-3wst.vercel.app/api/pin?username=Pirate-Emperor\&repo=Enigma\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
+![Card](https://github-readme-stats-3wst.vercel.app/api/pin?username=Pirate-Emperor\&repo=CipherX\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
 
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
