@@ -102,4 +102,7 @@ Tech enthusiast with 14 projects, 16 programming languages, 3 languages, Codeche
 
 ## Latest Blogs
 <!-- BLOGPOSTS:START -->
+ - 🌮 [AlphaFold2: Advancements in Protein Structure Prediction](https://medium.com/@piratekingrahul/alphafold2-advancements-in-protein-structure-prediction-f8546409427b)
+ - 🌮 [Hopfield Networks: A Comprehensive Overview](https://medium.com/@piratekingrahul/hopfield-networks-a-comprehensive-overview-bdab7e0b17e2)
+ - 🌮 [Boltzmann Machines: Overview](https://medium.com/@piratekingrahul/boltzmann-machines-overview-95fee5118726)
  - 🌮 [GovUnityXplorer : Welcome](https://govunityxplorer-forum.rf.gd)
