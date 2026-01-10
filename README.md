@@ -77,10 +77,11 @@ Tech enthusiast with 14 projects, 16 programming languages, 3 languages, Codeche
 
 ## Github Stats
 
-![Pirate-Emperor's GitHub stats](https://github-readme-stats-3wst.vercel.app/api/?username=Pirate-Emperor\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
+![Pirate-Emperor's GitHub stats](https://github-readme-stats-3wst.vercel.app/api/?username=Pirate-Emperor\&commits_year=2024&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
+
 
 <p style="display:flex; align=center; justify-content:center; ">
-<img src="https://streak-stats.demolab.com/?user=Pirate-Emperor&theme=holi-theme">
+<img src="https://github-readme-streak-stats-orcin-two-10.vercel.app/?user=Pirate-Emperor&theme=holi-theme">
 </p>
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
