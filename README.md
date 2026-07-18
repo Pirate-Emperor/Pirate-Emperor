@@ -15,10 +15,38 @@
 ![border-seperator](assets/borderseparator.gif) -->
 
 <p style="font-size:7px;">
-Hi, I am Rahul Kumar Sing, I build production-grade AI systems, dominate competitive programming leaderboards, and engineer advanced Game AI (NPCs, TTS, MoCap).
-🏆 Highlights: GATE CSE AIR 1 (Score: 100/100) • 10.00 CGPA @ IIT Madras • Codeforces International Master (2340).
-💼 Experience: AI Engineer (Remote/Contract) @ Mercor, Outlier ('Oracle' Status) & Turing.
-💻 Stack: Python, C++, GenAI, LangGraph, LLM Fine-tuning, Unreal Engine.
+👋 Hi, I'm Rahul Kumar Singh
+Elite AI Engineer | Top 1% Competitive Programmer | Advanced GameTech Architect
+
+I build production-grade Generative AI systems, dominate global algorithmic leaderboards, and engineer commercial-level AI integrations for Unreal Engine (NPCs, TTS, Motion Capture).
+
+🏆 Academic & Algorithmic Elite:
+
+GATE CSE AIR 1: Historic perfect score of 100/100 out of 207K+ candidates.
+
+Academics: M.Tech @ IIT Madras (9.76 CGPA) | B.Tech Gold Medalist (9.69 CGPA).
+
+Algorithms: Codeforces International Master (2340) | LeetCode Guardian (2200) | CodeChef 5-Star (2186).
+
+💼 Industry Impact (Remote GenAI Engineering):
+
+Mercor: Engineered low-latency GPT-4o inference pipelines and deployed 3 distinct LangGraph multi-agent workflows, processing 5K+ profiles weekly with 99.5% API success.
+
+Turing: Evaluated 350+ complex Python RLHF/DPO prompt-response pairs for proprietary 70B+ models, benchmarking against MBPP/HumanEval.
+
+Outlier ('Oracle' Status): Executed 32+ high-priority LLM training missions across complex algorithmic and scientific workflows.
+
+🚀 Commercial Game AI Projects:
+
+GameLLM & GameTTS: Sub-second <8B parameter local LLM inference engines and dynamic ensemble TTS models for Unreal Engine.
+
+AIAvatar & EmotionUTA: Real-time NPC emotion engines integrating ASR (SenseVoice), Voice Cloning (OpenVoice), Lip-sync, and 21 distinct facial/bodily expressions.
+
+AICharAnim & GameMocap: Skeleton-driven image/video generation and high-sensitivity motion capture with joint-correction.
+
+📚 Publications:
+
+Elysian: Building Emotionally Responsive NPCs — IEEE Transactions on Games (Evaluating parameter-efficient LoRA fine-tuning on 1B-parameter LLMs for sub-5-second latency constraints).
 </p>
 
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
