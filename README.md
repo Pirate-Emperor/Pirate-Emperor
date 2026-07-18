@@ -22,7 +22,7 @@ I build production-grade Generative AI systems, dominate global algorithmic lead
 
 🏆 Academic & Algorithmic Elite:
 
-GATE CSE AIR 1: Historic perfect score of 100/100 out of 207K+ candidates.
+GATE CSE AIR 1: Historic perfect score of 100/100 out of 207K+ candidates in 2025.
 
 Academics: M.Tech @ IIT Madras (9.76 CGPA) | B.Tech Gold Medalist (9.69 CGPA).
 
