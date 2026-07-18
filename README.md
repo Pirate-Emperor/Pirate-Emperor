@@ -14,40 +14,49 @@
 <!-- ### **Welcome to My Page!** <img src="assets/flame.gif" style="position: relative;top:2.4px;" width="12" height="22">
 ![border-seperator](assets/borderseparator.gif) -->
 
-<p style="font-size:7px;">
-👋 Hi, I'm Rahul Kumar Singh
-Elite AI Engineer | Top 1% Competitive Programmer | Advanced GameTech Architect
+# 👋 Hi, I'm Rahul
+### Elite AI Engineer | Top 1% Competitive Programmer | Advanced GameTech Architect
 
-I build production-grade Generative AI systems, dominate global algorithmic leaderboards, and engineer commercial-level AI integrations for Unreal Engine (NPCs, TTS, Motion Capture).
+I build production-grade **Generative AI systems**, dominate global algorithmic leaderboards, and engineer commercial-level **AI integrations for Unreal Engine** (NPCs, TTS, Motion Capture).
 
-🏆 Academic & Algorithmic Elite:
+---
 
-GATE CSE AIR 1: Historic perfect score of 100/100 out of 207K+ candidates in 2025.
+## 🏆 Academic & Algorithmic Elite
 
-Academics: M.Tech @ IIT Madras (9.76 CGPA) | B.Tech Gold Medalist (9.69 CGPA).
+**Academics & Achievements**
+*   **GATE CSE 2025 (AIR 1):** Achieved a historic perfect score of **100/100** out of 207K+ candidates.
+*   **M.Tech (IIT Madras):** 10.00 CGPA
+*   **B.Tech:** Gold Medalist (9.69 CGPA)
 
-Algorithms: Codeforces International Master (2340) | LeetCode Guardian (2200) | CodeChef 5-Star (2186).
+**Competitive Programming**
+| Platform | Rank | Peak Rating |
+| :--- | :--- | :--- |
+| **Codeforces** | International Master | 2340 |
+| **LeetCode** | Guardian | 2200 |
+| **CodeChef** | 5-Star | 2186 |
 
-💼 Industry Impact (Remote GenAI Engineering):
+---
 
-Mercor: Engineered low-latency GPT-4o inference pipelines and deployed 3 distinct LangGraph multi-agent workflows, processing 5K+ profiles weekly with 99.5% API success.
+## 💼 Industry Impact (GenAI Engineering)
 
-Turing: Evaluated 350+ complex Python RLHF/DPO prompt-response pairs for proprietary 70B+ models, benchmarking against MBPP/HumanEval.
+*   **Mercor:** Engineered low-latency GPT-4o inference pipelines and deployed 3 distinct LangGraph multi-agent workflows, processing 5K+ profiles weekly with a **99.5% API success rate**.
+*   **Turing:** Evaluated 350+ complex Python RLHF/DPO prompt-response pairs for proprietary 70B+ models, benchmarking against MBPP and HumanEval standards.
+*   **Outlier ('Oracle' Status):** Executed 32+ high-priority LLM training missions across complex algorithmic and scientific workflows.
 
-Outlier ('Oracle' Status): Executed 32+ high-priority LLM training missions across complex algorithmic and scientific workflows.
+---
 
-🚀 Commercial Game AI Projects:
+## 🚀 Commercial Game AI Projects (Unreal Engine)
 
-GameLLM & GameTTS: Sub-second <8B parameter local LLM inference engines and dynamic ensemble TTS models for Unreal Engine.
+*   **GameLLM & GameTTS:** Built sub-second `<8B` parameter local LLM inference engines and dynamic ensemble TTS models.
+*   **AIAvatar & EmotionUTA:** Developed real-time NPC emotion engines integrating ASR (SenseVoice), Voice Cloning (OpenVoice), Lip-sync, and 21 distinct facial/bodily expressions.
+*   **AICharAnim & GameMocap:** Engineered skeleton-driven image/video generation and high-sensitivity motion capture pipelines with automatic joint-correction.
 
-AIAvatar & EmotionUTA: Real-time NPC emotion engines integrating ASR (SenseVoice), Voice Cloning (OpenVoice), Lip-sync, and 21 distinct facial/bodily expressions.
+---
 
-AICharAnim & GameMocap: Skeleton-driven image/video generation and high-sensitivity motion capture with joint-correction.
+## 📚 Publications
 
-📚 Publications:
-
-Elysian: Building Emotionally Responsive NPCs — IEEE Transactions on Games (Evaluating parameter-efficient LoRA fine-tuning on 1B-parameter LLMs for sub-5-second latency constraints).
-</p>
+> **Elysian: Building Emotionally Responsive NPCs** — *IEEE Transactions on Games*
+> Evaluating parameter-efficient LoRA fine-tuning on 1B-parameter LLMs to meet sub-5-second latency constraints in gaming environments.
 
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
