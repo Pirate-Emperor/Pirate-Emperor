@@ -15,7 +15,10 @@
 ![border-seperator](assets/borderseparator.gif) -->
 
 <p style="font-size:7px;">
-Tech enthusiast with 14 projects, 16 programming languages, 3 languages, Codechef Rank 2047, Codeforces Rank 1810, Google Cloud Mastery, SIH 2023 Grand Finalist and B. Tech. (CSE) with 9.57 CGPA.
+Hi, I am Rahul Kumar Sing, I build production-grade AI systems, dominate competitive programming leaderboards, and engineer advanced Game AI (NPCs, TTS, MoCap).
+🏆 Highlights: GATE CSE AIR 1 (Score: 100/100) • 10.00 CGPA @ IIT Madras • Codeforces International Master (2340).
+💼 Experience: AI Engineer (Remote/Contract) @ Mercor, Outlier ('Oracle' Status) & Turing.
+💻 Stack: Python, C++, GenAI, LangGraph, LLM Fine-tuning, Unreal Engine.
 </p>
 
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
